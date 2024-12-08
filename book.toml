@@ -1,0 +1,6 @@
+[book]
+authors = ["Alibek"]
+language = "en"
+multilingual = true
+src = "src"
+title = "Til book"
